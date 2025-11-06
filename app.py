@@ -577,6 +577,8 @@ st.markdown(
         <p style='margin: 5px 0; font-size: 14px;'>© 2025 <strong>Mehul Vishwakarma</strong>. All rights reserved.</p>
         <p style='margin: 5px 0; font-size: 14px;'>
             📧 Contact: <a href='mailto:mehulvinodv@gmail.com' style='color: #ffeb3b; text-decoration: none; font-weight: bold;'>mehulvinodv@gmail.com</a>
+            <br>
+            💼 LinkedIn: <a href='https://linkedin.com/in/mehul-vishwakarma13' target='_blank' style='color: #ffeb3b; text-decoration: none; font-weight: bold;'>mehul-vishwakarma13</a>
         </p>
         <div style='margin-top: 20px; padding: 10px; background: rgba(255,255,255,0.1); border-radius: 10px;'>
             <p style='margin: 0; font-size: 12px;'>
